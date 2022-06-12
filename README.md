@@ -11,7 +11,7 @@ I'm happy to share it with you.
 
 Below is the list of assignments and ungraded labs course-wise.
 
-### Want to contribute?
+### Contribution
 
 If you find a bug or typo please raise an issue :)
 
