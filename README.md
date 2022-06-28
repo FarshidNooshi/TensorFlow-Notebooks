@@ -4,7 +4,7 @@
 
 # DeepLearning.AI TensorFlow Developer
 
-Welcome to the public repo for this course.
+Welcome to the public repo for this specialization.
 
 This repository is for my works(assignments&labs) at coursera Tensorflow Developer program.
 I'm happy to share it with you.
