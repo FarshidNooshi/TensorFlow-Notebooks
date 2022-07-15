@@ -2,9 +2,7 @@
   <h1> In The Name Of GOD </h11>
   </div>
 
-# DeepLearning.AI TensorFlow Developer
-
-Welcome to the public repo for this specialization.
+# Tensorflow notebooks
 
 This repository is for my works(assignments&labs) at coursera Tensorflow Developer program.
 I'm happy to share it with you.
