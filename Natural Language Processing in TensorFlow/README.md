@@ -4,7 +4,7 @@
 
 # Tensorflow notebooks
 
-This directory is for my works(assignments&labs) at the Coursera Tensorflow Developer program. course **3** for **Natural Language Processing in TensorFlow**. below is the list of assignments and ungraded labs for this course.
+This directory is for my works(assignments&labs) at the Coursera Tensorflow Developer program. **course 3** for **Natural Language Processing in TensorFlow**. below is the list of assignments and ungraded labs for this course.
 
 ## C3 - Natural Language Processing in TensorFlow
 
