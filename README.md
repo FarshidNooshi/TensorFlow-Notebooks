@@ -20,10 +20,6 @@ This repository is for my works(assignments&labs) at different Coursera Speciali
 
 </span>
 
-### Contribution
-
-If you find a bug or typo please raise an issue :)
-
 ---
 
 ## DeepLearning.AI TensorFlow Developer
@@ -34,3 +30,7 @@ For this specialization I have taken the following courses and the directories o
 - [Convolutional Neural Networks in TensorFlow](https://github.com/FarshidNooshi/Tensorflow-notebooks/tree/master/Convolutional%20Neural%20Networks%20in%20TensorFlow)
 - [Natural Language Processing in TensorFlow](https://github.com/FarshidNooshi/Tensorflow-notebooks/tree/master/Natural%20Language%20Processing%20in%20TensorFlow)
 - [Sequences, Time Series and Prediction](https://github.com/FarshidNooshi/Tensorflow-notebooks/tree/master/Sequences%2C%20Time%20Series%20and%20Prediction)
+
+### Contribution
+
+If you find a bug or typo please raise an issue :)
