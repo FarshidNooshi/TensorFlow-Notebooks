@@ -4,8 +4,7 @@
 
 # Tensorflow notebooks
 
-This directory is for my works(assignments&labs) at the Coursera Tensorflow Developer program. course 1 for
-Introduction to Tensorflow for AI & ML and Deep Learning. below is the list of assignments and ungraded labs for this course.
+This directory is for my works(assignments&labs) at the Coursera Tensorflow Developer program. **course 1** for **Introduction to Tensorflow for AI & ML and Deep Learning**. below is the list of assignments and ungraded labs for this course.
 
 ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 

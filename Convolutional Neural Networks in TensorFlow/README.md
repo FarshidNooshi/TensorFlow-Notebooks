@@ -4,8 +4,7 @@
 
 # Tensorflow notebooks
 
-This directory is for my works(assignments&labs) at the Coursera Tensorflow Developer program. course 2 for
-Convolutional Neural Networks with TensorFlow. below is the list of assignments and ungraded labs for this course.
+This directory is for my works(assignments&labs) at the Coursera Tensorflow Developer program. **course 2** for **Convolutional Neural Networks with TensorFlow**. below is the list of assignments and ungraded labs for this course.
 
 ## Convolutional Neural Networks in TensorFlow
 
