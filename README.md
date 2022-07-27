@@ -5,7 +5,7 @@
 # Tensorflow notebooks
 
 This repository is for my works(assignments&labs) at different Coursera Specialization programs and courses which I have taken. below is the list of specializations and courses with their respective certificates.
-<span color='black'>
+`<span color='black'>`
 
 - [**Machine Learning**](https://www.coursera.org/account/accomplishments/certificate/8YFX6GGF8PB9)
 - [**DeepLearning.AI TensorFlow Developer Specilization**](https://www.coursera.org/account/accomplishments/specialization/certificate/GS2KGD5NEU3D)
@@ -31,6 +31,6 @@ For this specialization I have taken the following courses and the directories o
 - [Natural Language Processing in TensorFlow](https://github.com/FarshidNooshi/Tensorflow-notebooks/tree/master/Natural%20Language%20Processing%20in%20TensorFlow)
 - [Sequences, Time Series and Prediction](https://github.com/FarshidNooshi/Tensorflow-notebooks/tree/master/Sequences%2C%20Time%20Series%20and%20Prediction)
 
-### Contribution
+## Contribution
 
 If you find a bug or typo please raise an issue :)
