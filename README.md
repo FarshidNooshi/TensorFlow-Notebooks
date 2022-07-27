@@ -4,19 +4,18 @@
 
 # Tensorflow notebooks
 
-This repository is for my works(assignments&labs) at different Coursera Specialization programs which I have taken. below is the list of
-specializations and courses which I have taken.
+This repository is for my works(assignments&labs) at different Coursera Specialization programs and courses which I have taken. below is the list of specializations and courses with their respective certificates.
 <span color='black'>
 
-- [**DeepLearning.AI TensorFlow Developer**](https://www.coursera.org/account/accomplishments/specialization/certificate/GS2KGD5NEU3D)
+- [**Machine Learning**](https://www.coursera.org/account/accomplishments/certificate/8YFX6GGF8PB9)
+- [**DeepLearning.AI TensorFlow Developer Specilization**](https://www.coursera.org/account/accomplishments/specialization/certificate/GS2KGD5NEU3D)
   - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
   - Convolutional Neural Networks in TensorFlow
   - Natural Language Processing in TensorFlow
   - Sequences, Time Series and Prediction
-- **DeepLearning.AI Deep Learning**
+- **DeepLearning.AI Deep Learning Specialization**
   - Neural Networks and Deep Learning
-- [**Machine Learning**](https://www.coursera.org/account/accomplishments/certificate/8YFX6GGF8PB9)
-- **Reinforcement Learning**
+- **Reinforcement Learning Specialization**
   - Fundamentals of Reinforcement Learning
 
 </span>
