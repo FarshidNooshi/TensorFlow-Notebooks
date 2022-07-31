@@ -14,6 +14,8 @@ This repository is for my works(assignments&labs) at different Coursera Speciali
   - Sequences, Time Series and Prediction
 - **DeepLearning.AI Deep Learning Specialization**
   - Neural Networks and Deep Learning
+  - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+  - Structuring Machine Learning Projects
 - **Reinforcement Learning Specialization**
   - Fundamentals of Reinforcement Learning
 
