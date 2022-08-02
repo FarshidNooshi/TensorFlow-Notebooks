@@ -22,6 +22,11 @@ This folder is for my works(assignments&labs) at TensorFlow Developer Coursera S
 - **Reinforcement Learning Specialization**
   - Fundamentals of Reinforcement Learning
 
+## Seeds Dataset Classifier
+This folder is for a classifier for the Seeds dataset from [here](https://archive.ics.uci.edu/ml/datasets/seeds). the data is first preprocessed with standard normalization and then feeded to various architectures of neural networks to see the overfitting effect and learning curves. 
+for better understanding of the classfier **Tensorboard** is used to analyze the results of the learning, and other callbacks such as 
+early stopping is also used to compile the models. for pre-processing the data *Pandas* library were used.
+
 ## Contribution
 
 If you find a bug or typo please raise an issue :)
