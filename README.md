@@ -4,7 +4,10 @@
 
 # Tensorflow notebooks
 
-This repository is for my works(assignments&labs) at different Coursera Specialization programs and courses which I have taken. below is the list of specializations and courses with their respective certificates.
+This repository hosts my extra works and projects in the field of Machine Learning and deep-learning problems with the **TensorFlow platform**. the repository contains several folders in which each of them is for an specific course(or specialization) or project.
+
+## Tensorflow Developer
+This folder is for my works(assignments&labs) at TensorFlow Developer Coursera Specialization program and courses which I have taken for that specialization. below is the list of all the specializations and courses with their respective certificates That I've had.
 
 - [**Machine Learning**](https://www.coursera.org/account/accomplishments/certificate/8YFX6GGF8PB9)
 - [**DeepLearning.AI TensorFlow Developer Specilization**](https://www.coursera.org/account/accomplishments/specialization/certificate/GS2KGD5NEU3D)
@@ -18,18 +21,6 @@ This repository is for my works(assignments&labs) at different Coursera Speciali
   - Structuring Machine Learning Projects
 - **Reinforcement Learning Specialization**
   - Fundamentals of Reinforcement Learning
-
-
----
-
-## DeepLearning.AI TensorFlow Developer
-
-For this specialization I have taken the following courses and the directories of each course are shown below.
-
-- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/FarshidNooshi/Tensorflow-Notebooks/tree/master/Tensorflow%20Developer/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
-- [Convolutional Neural Networks in TensorFlow](https://github.com/FarshidNooshi/Tensorflow-notebooks/tree/master/Tensorflow%20Developer/Convolutional%20Neural%20Networks%20in%20TensorFlow)
-- [Natural Language Processing in TensorFlow](https://github.com/FarshidNooshi/Tensorflow-notebooks/tree/master/Tensorflow%20Developer/Natural%20Language%20Processing%20in%20TensorFlow)
-- [Sequences, Time Series and Prediction](https://github.com/FarshidNooshi/Tensorflow-notebooks/tree/master/Tensorflow%20Developer/Sequences%2C%20Time%20Series%20and%20Prediction)
 
 ## Contribution
 
