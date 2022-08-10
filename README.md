@@ -27,6 +27,6 @@ This folder is for a classifier for the Seeds dataset from [here](https://archiv
 for better understanding of the classfier **Tensorboard** is used to analyze the results of the learning, and other callbacks such as 
 early stopping is also used to compile the models. for pre-processing the data *Pandas* library were used.
 
-## Contribution
+# Contribution
 
 If you find a bug or typo please raise an issue :)
