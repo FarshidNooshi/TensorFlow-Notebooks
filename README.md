@@ -7,7 +7,7 @@
 This repository hosts my extra works and projects in the field of Machine Learning and deep-learning problems with the **TensorFlow platform**. the repository contains several folders in which each of them is for an specific course(or specialization) or project.
 
 ## Tensorflow Developer
-This folder is for my works(assignments&labs) at TensorFlow Developer Coursera Specialization program and courses which I have taken for that specialization. below is the list of all the specializations and courses with their respective certificates That I've had.
+This folder is for my works(assignments&labs) at TensorFlow Developer Coursera Specialization program and courses which I have taken for that specialization. below is the list of all the specializations and courses with their respective certificates That I have had.
 
 - [**Machine Learning**](https://www.coursera.org/account/accomplishments/certificate/8YFX6GGF8PB9)
 - [**DeepLearning.AI TensorFlow Developer Specilization**](https://www.coursera.org/account/accomplishments/specialization/certificate/GS2KGD5NEU3D)
