@@ -27,7 +27,7 @@ This folder is for my works(assignments&labs) at TensorFlow Developer Coursera S
 
 This folder is for a classifier for the Seeds dataset from [here](https://archive.ics.uci.edu/ml/datasets/seeds). the data is first preprocessed with standard normalization and then feeded to various architectures of neural networks to see the overfitting effect and learning curves.
 for better understanding of the classfier **Tensorboard** is used to analyze the results of the learning, and other callbacks such as
-early stopping is also used to compile the models. for pre-processing the data _Pandas_ library were used
+early stopping is also used to compile the models. for pre-processing the data _Pandas_ library were used.
 
 # Contribution
 
