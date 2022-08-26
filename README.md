@@ -4,7 +4,7 @@
 
 # Tensorflow notebooks
 
-This repository hosts my extra works and projects in the field of Machine Learning and deep-learning problems with the **TensorFlow platform**. the repository contains several folders in which each of them is for an specific course(or specialization) or project
+This repository hosts my extra works and projects in the field of Machine Learning and deep-learning problems with the **TensorFlow platform**. the repository contains several folders in which each of them is for an specific course(or specialization) or project.
 
 ## Tensorflow Developer
 
