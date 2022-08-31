@@ -20,6 +20,7 @@ This folder is for my works(assignments&labs) at TensorFlow Developer Coursera S
   - Neural Networks and Deep Learning
   - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
   - Structuring Machine Learning Projects
+  - Convolutional Neural Networks
 - **Reinforcement Learning Specialization**
   - Fundamentals of Reinforcement Learning
 
