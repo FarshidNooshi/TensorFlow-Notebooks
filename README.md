@@ -16,11 +16,12 @@ This folder is for my works(assignments&labs) at TensorFlow Developer Coursera S
   - Convolutional Neural Networks in TensorFlow
   - Natural Language Processing in TensorFlow
   - Sequences, Time Series and Prediction
-- **DeepLearning.AI Deep Learning Specialization**
+- [**DeepLearning.AI Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/KAC9TXFGAVPA)
   - Neural Networks and Deep Learning
   - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
   - Structuring Machine Learning Projects
   - Convolutional Neural Networks
+  - Sequence Models
 - **Reinforcement Learning Specialization**
   - Fundamentals of Reinforcement Learning
 
