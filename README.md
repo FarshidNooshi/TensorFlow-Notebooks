@@ -1,6 +1,9 @@
 <div align="center">
   <h1> In The Name Of GOD </h11>
   </div>
+  
+  
+[![CI](https://github.com/FarshidNooshi/TensorFlow-Notebooks/actions/workflows/action.yml/badge.svg)](https://github.com/FarshidNooshi/TensorFlow-Notebooks/actions/workflows/action.yml)
 
 # Tensorflow notebooks
 
@@ -10,19 +13,21 @@ This repository hosts my extra works and projects in the field of Machine Learni
 
 This folder is for my works(assignments&labs) at TensorFlow Developer Coursera Specialization program and courses which I have taken for that specialization. below is the list of all the specializations and courses with their respective certificates That I have had.
 
-- [**Machine Learning**](https://www.coursera.org/account/accomplishments/certificate/8YFX6GGF8PB9)
-- [**DeepLearning.AI TensorFlow Developer Specilization**](https://www.coursera.org/account/accomplishments/specialization/certificate/GS2KGD5NEU3D)
+- [**Machine Learning**](https://www.coursera.org/account/accomplishments/certificate/8YFX6GGF8PB9) by Stanford University
+- [**TensorFlow Developer Specilization**](https://www.coursera.org/account/accomplishments/specialization/certificate/GS2KGD5NEU3D) by DeepLearning.AI 
   - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
   - Convolutional Neural Networks in TensorFlow
   - Natural Language Processing in TensorFlow
   - Sequences, Time Series and Prediction
-- **DeepLearning.AI Deep Learning Specialization**
+- [**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/KAC9TXFGAVPA) by DeepLearning.AI
   - Neural Networks and Deep Learning
   - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
   - Structuring Machine Learning Projects
   - Convolutional Neural Networks
-- **Reinforcement Learning Specialization**
+  - Sequence Models
+- **Reinforcement Learning Specialization** by University of Alberta
   - Fundamentals of Reinforcement Learning
+- [**Introduction to Artificial Intelligence (AI)**](https://www.coursera.org/account/accomplishments/certificate/4BBSHBTDPSXR) by IBM
 
 ## Seeds Dataset Classifier
 
