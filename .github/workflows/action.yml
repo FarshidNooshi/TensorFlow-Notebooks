@@ -29,6 +29,6 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
         
-      - name: fastpages: An easy to use blogging platform with support for Jupyter Notebooks.
+      - name: An easy to use blogging platform with support for Jupyter Notebooks.
         uses: fastai/fastpages@v2.1.5
 
