@@ -5,11 +5,11 @@
   
 [![CI](https://github.com/FarshidNooshi/TensorFlow-Notebooks/actions/workflows/action.yml/badge.svg)](https://github.com/FarshidNooshi/TensorFlow-Notebooks/actions/workflows/action.yml)
 
-# Tensorflow notebooks
+# TensorFlow Notebooks
 
 This repository hosts my extra works and projects in the field of Machine Learning and deep-learning problems with the **TensorFlow platform**. the repository contains several folders in which each of them is for an specific course(or specialization) or project.
 
-## Tensorflow Developer
+## TensorFlow Developer
 
 This folder is for my works(assignments&labs) at TensorFlow Developer Coursera Specialization program and courses which I have taken for that specialization. below is the list of all the specializations and courses with their respective certificates That I have had.
 
