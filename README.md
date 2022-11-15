@@ -36,7 +36,9 @@ for better understanding of the classfier **Tensorboard** is used to analyze the
 early stopping is also used to compile the models. for pre-processing the data _Pandas_ library were used.
 
 ## RCV1 Dataset Visualization
-To be added
+In this project, we have used the RCV1 dataset to visualize the data. 
+The dataset is available in the following link: [RCV1 Dataset](https://scikit-learn.org/0.18/datasets/rcv1.html) 
+The dataset is a collection of news articles from BBC. The dataset is divided into 5 categories: Business, Entertainment, Politics, Sport, Tech. and the visualization is done with Self-Organizing Map (SOM) and K-Means Clustering. 
 
 # Contribution
 
